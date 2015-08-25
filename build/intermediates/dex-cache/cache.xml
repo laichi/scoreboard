@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/pre-dexed/debug/classes-1a64bdfb5b8473bea00fc990e97ff17d8c68e3a9.jar" />
+    </item>
+    <item
+        jar="/Users/legochen/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.8/77bbfe240e437ecb396d982afa0d3bd4f9090ba7/android-async-http-1.4.8.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.8-8e239f1d77d29a502f2913223ad2fd76d27c5b50.jar" />
+    </item>
+    <item
+        jar="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/2.1.2/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="2b971772f0be0ab4471ee89069a70ffd6ad24740">
+        <dex dex="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/pre-dexed/debug/classes-18b9e258df7d2350a9244f61d0b4b41659a3357d.jar" />
+    </item>
+    <item
+        jar="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/pre-dexed/debug/classes-e4f96ad67fb1490ad340781b9fc82f50e0393676.jar" />
+    </item>
+    <item
+        jar="/Users/legochen/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/pre-dexed/debug/picasso-2.5.2-dd9eaab909177d69336501aacd380b760321806a.jar" />
+    </item>
+    <item
+        jar="/Users/legochen/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-2089887ba104b8d692ba51eb33be4eca338c645f.jar" />
+    </item>
+    <item
+        jar="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-39b06e3509252493d6a5c1436da19e3e288660d1.jar" />
+    </item>
+    <item
+        jar="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/exploded-aar/com.astuetz/pagerslidingtabstrip/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc3"
+        sha1="7912610ed96381c25c36d986eba422731b9641b6">
+        <dex dex="/Users/legochen/dev/androidL2/screwball/app/build/intermediates/pre-dexed/debug/classes-f3f6709e2edb9ffacf85f5883e9482ab71722de9.jar" />
+    </item>
+
+</items>

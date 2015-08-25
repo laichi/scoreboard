@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="10dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ivAuthor"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:adjustViewBounds="true"
+        android:minHeight="20dp"
+        android:minWidth="20dp"
+        android:maxHeight="50dp"
+        android:maxWidth="50dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="txtAuthor"
+        android:id="@+id/txtAuthor"
+        android:layout_toRightOf="@+id/ivAuthor"
+        android:layout_marginLeft="15dp"
+        android:gravity="center_vertical|left" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="txtBuildTime"
+        android:id="@+id/txtBuildTime"
+        android:layout_below="@+id/txtAuthor"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/ivAuthor"
+        android:layout_alignBaseline="@+id/txtAuthor"
+        android:gravity="center_vertical|right" />
+
+    <ImageView
+        android:layout_width="20dip"
+        android:layout_height="20dip"
+        android:layout_margin="3dip"
+        android:paddingRight="5dip"
+        android:text="imgStatus"
+        android:id="@+id/imgStatus"
+        android:layout_below="@+id/txtBuildTime"
+        android:layout_alignParentLeft="true"/>
+
+    <TextView
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="txtJobName"
+        android:singleLine="false"
+        android:layout_weight="3"
+        android:maxLines="2"
+        android:id="@+id/txtJobName"
+        android:layout_below="@+id/imgStatus"
+        android:textColor="#000000" />
+</RelativeLayout>
